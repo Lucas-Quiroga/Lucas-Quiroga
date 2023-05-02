@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A student and frontend developer from Argentina</h3>
 
-- 🌱 I currently use the MERN javascript stack. **React JS, but pointing to the MERN stack of javascript**
+- 🌱 **I currently use the MERN javascript stack.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
