@@ -3,9 +3,11 @@
 
 - 🌱 **I currently use the MERN javascript stack.**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/lucas-quiroga-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lucas-quiroga-/" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+ <a href="https://www.linkedin.com/in/lucas-quiroga-/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas Quiroga"/>
+ </a>
 </p>
 
 ## Languages and Tools
@@ -20,4 +22,3 @@
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
