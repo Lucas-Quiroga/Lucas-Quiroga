@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
 <h3 align="center">A student and frontend developer from Argentina</h3>
-<p align="center">
+
 - 🌱 **I currently use the MERN javascript stack.**
-</p>
-<h3 align="center">Connect with me:</h3>
-<p align="center">
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
  <a href="https://www.linkedin.com/in/lucas-quiroga-/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Lucas Quiroga"/>
  </a>
