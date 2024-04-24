@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas</h1>
-<h3 align="center">A student and frontend developer from Argentina</h3>
+<h3 align="center">Fullstack developer from Argentina</h3>
 
-- 🌱 **I currently use the MERN javascript stack.**
+- 🌱 **contributing to the technological advancement that defines our era.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
